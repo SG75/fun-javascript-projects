@@ -7,4 +7,6 @@ these projects were done as per the site <a href="https://fun-javascript-project
 
 1) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/quick%20tip" target="_blank">Quick Tip</a>
 
+2) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/running%20tracker"  target="_blank">Running Tracker</a>
+
 
