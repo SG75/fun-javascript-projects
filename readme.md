@@ -10,5 +10,6 @@ these projects were done as per the site <a href="https://fun-javascript-project
 3) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/guess_the_number"  target="_blank">Guess The Number</a>
 4) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/number_match_game"  target="_blank">Number Match Game</a>
 5) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/photo_effects_app"  target="_blank">Photo Effects App</a>
+6) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/music_player_app"  target="_blank">Music Player App</a>
 
 
