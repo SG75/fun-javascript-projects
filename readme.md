@@ -11,5 +11,6 @@ these projects were done as per the site <a href="https://fun-javascript-project
 4) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/number_match_game"  target="_blank">Number Match Game</a>
 5) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/photo_effects_app"  target="_blank">Photo Effects App</a>
 6) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/music_player_app"  target="_blank">Music Player App</a>
+7) <a href="https://github.com/SG75/fun-javascript-projects/tree/master/memory_game"  target="_blank">Memory Game</a>
 
 
